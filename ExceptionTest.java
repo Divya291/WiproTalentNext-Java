@@ -1,4 +1,4 @@
-package talentnext;
+package com.javatpoint.testcase;
 
 //ExceptionTest.java
 import org.junit.Test;
